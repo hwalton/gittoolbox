@@ -1,4 +1,4 @@
-package gitutils
+package gittoolbox
 
 import (
 	"os"

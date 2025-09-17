@@ -1,3 +1,3 @@
-module github.com/hwalton/gitutils
+module github.com/hwalton/gittoolbox
 
 go 1.24.3
